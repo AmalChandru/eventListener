@@ -31,8 +31,13 @@
         </div>
         <!-- Navbar Right Side -->
         <div class="navbar-nav">
-          <a class="nav-item nav-link" href="#" style="font-size: 20px; color: #FFE6EE">Login</a>
-          <a class="nav-item nav-link" href="#" style="font-size: 20px; color: #FFE6EE">Register</a>
+          {% if user.is_authenticated %}
+            <a class="nav-item nav-link" href="{% url 'profile'  %}" style="font-size: 20px; color: #FFE6EE">Profile</a>
+            <a class="nav-item nav-link" href="{% url 'logout'  %}" style="font-size: 20px; color: #FFE6EE">Logout</a>
+          {% else %}
+            <a class="nav-item nav-link" href="{% url 'login' %}" style="font-size: 20px; color: #FFE6EE">Login</a>
+            <a class="nav-item nav-link" href="{% url 'register' %}" style="font-size: 20px; color: #FFE6EE">Register</a>
+          {% endif %}
         </div>
       </div>
     </div>
