@@ -33,8 +33,8 @@ ul {
   padding: 10px 20px;
   border-radius: 2px;
   margin-bottom: 20px; 
-border: 1px solid rgb(240, 19, 77,1);
-box-shadow: rgb(240, 19, 77,1) 5px 5px 5px; 
+border: 1px solid rgb(247, 215, 35);
+box-shadow: rgb(5, 5, 5) 5px 5px 5px; 
 
 }
 .content-section {
@@ -43,8 +43,8 @@ box-shadow: rgb(240, 19, 77,1) 5px 5px 5px;
   border-radius: 2px;
   margin-bottom: 20px;
  /* background: linear-gradient( 117.8deg,  rgb(240, 19, 77,1) 22.2%, rgb(228, 0, 124,1) 88.7% ); */
-box-shadow: rgb(240, 19, 77,1) 8px 8px 5px ; 
-border: 1px solid rgb(240, 19, 77,1);
+box-shadow:rgb(5, 5, 5)  8px 8px 5px ; 
+border: 2px solid rgb(247, 215, 35) ;
 }
 
 .article-title {
@@ -98,5 +98,5 @@ a.article-title:hover {
 .nav-link:hover{
   animation-duration: 1s;
   border:1px solid black;
-  background-color: rgb(238, 66, 132);
+  background-color: rgb(77, 74, 75);
 }
