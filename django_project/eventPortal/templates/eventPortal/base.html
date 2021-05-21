@@ -8,7 +8,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="{% static 'eventPortal/main.css'%}">
+    <link rel="stylesheet" type="text/css" href="{% static 'eventPortal/main.css'%}?{% now 'U'%}">
 
     {% if title %}
         <title>Event Portal - {{ title }}</title>
@@ -16,9 +16,9 @@
         <title>Event Portal</title>
     {% endif %}
 </head>
-<body>
+<body style="font-family: monospace;">
 <header class="site-header">
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-image: linear-gradient( 117.8deg,  rgba(240,19,77,1) 22.2%, rgba(228,0,124,1) 88.7% );">
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: cornflowerblue;">
     <div class="container">
       <a class="navbar-brand mr-4" href="{% url 'eventPortal-home' %}" style="font-size: 30px;">EventListener📝</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle" aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
@@ -59,14 +59,14 @@
       {% block content %}{% endblock %}
     </div>
     <div class="col-md-4">
-      <div class="content-section">
-        <h3>Catalog ☑️</h3>
+      <div class="content-section solid-box">
+        <h3 style="color: black; font-family: monospace;">Catalog ☑️</h3>
         <p class='text-muted'>Events at a glance.
-          <ul class="list-group">
-            <li class="list-group-item list-group-item-light">Latest Events</li>
-            <li class="list-group-item list-group-item-light">Announcements</li>
-            <li class="list-group-item list-group-item-light">Event Dates</li>
-            <li class="list-group-item list-group-item-light">etc</li>
+          <ul class="list-group" style="margin: 1px;">
+            <li class="list-group-item list-group-item-light list-item-box">Latest Events</li>
+            <li class="list-group-item list-group-item-light list-item-box">Announcements</li>
+            <li class="list-group-item list-group-item-light list-item-box">Event Dates</li>
+            <li class="list-group-item list-group-item-light list-item-box">etc</li>
           </ul>
         </p>
       </div>
