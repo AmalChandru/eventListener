@@ -4,4 +4,4 @@ Features :
 - [x] User sign-up logician  
 - [x] Create events  
 - [x] Manage existing events.  
-- [ ] Enhance UI.  
+- [x] Enhance UI.  
