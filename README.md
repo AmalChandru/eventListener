@@ -18,9 +18,13 @@ Features :
 [link to video]
 ## How it Works ?
 1.Create a new account via `Register`
+
 2.Login
+
 3.Add a new event
+
 4.Edit or Update the event post if required
+
 ## Libraries used
 Library Name - Version
 ## How to configure
