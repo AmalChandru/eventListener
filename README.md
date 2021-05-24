@@ -12,7 +12,7 @@ Features :
 ## Team members
 1. [Amal Chandran M V](https://github.com/AmalChandru)
 2. [Aloysious Benoy](https://github.com/aloysiousBenoy)
-3. Sandra Prathap
+3. [Sandra Prathap](https://github.com/SandhraPrathap)
 ## Team Id
 Team id here
 ## Link to product walkthrough
