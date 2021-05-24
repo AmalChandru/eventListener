@@ -25,8 +25,12 @@ Features :
 
 4.Edit or Update the event post if required
 
-## Libraries used
-Library Name - Version
+## Frameworks and libraries used
+Django - 2.2.23
+
+django-crispy-forms - 1.1.0
+
+pillow - PIL 7.0.0
 ## How to configure
 Instructions for setting up project
 ## How to Run
