@@ -10,7 +10,7 @@ Features :
 - [x] Email and Password Reset
 - [x] Simple UI 
 ## Team members
-1. Amal Chandran M V [Embed personal github URL]
+1. [Amal Chandran M V](https://github.com/AmalChandru)
 2. Aloysious Benoy [Embed perosnal github URL]
 3. Sandra Prathap
 ## Team Id
