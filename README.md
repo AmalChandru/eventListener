@@ -1,5 +1,8 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
 # EventListener📝
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 An event portal where students can create a unique account and register for events. 
