@@ -32,9 +32,9 @@ ul {
 .content{background: #ffffff;
   padding: 10px 20px;
   border-radius: 2px;
-  margin-bottom: 20px; 
-border: 1px solid rgb(240, 19, 77,1);
-box-shadow: rgb(240, 19, 77,1) 5px 5px 5px; 
+  margin-bottom: 20px;
+border: 0.1px solid #FF6263;
+box-shadow: #FF6263 5px 5px 5px;
 
 }
 .content-section {
@@ -43,8 +43,8 @@ box-shadow: rgb(240, 19, 77,1) 5px 5px 5px;
   border-radius: 2px;
   margin-bottom: 20px;
  /* background: linear-gradient( 117.8deg,  rgb(240, 19, 77,1) 22.2%, rgb(228, 0, 124,1) 88.7% ); */
-box-shadow: rgb(240, 19, 77,1) 8px 8px 5px ; 
-border: 1px solid rgb(240, 19, 77,1);
+box-shadow: #FF6263 7px 7px 7px ;
+border: 0.1px solid #FF6263;*/
 }
 
 .article-title {
