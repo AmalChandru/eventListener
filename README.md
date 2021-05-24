@@ -28,9 +28,9 @@ Features :
 ## Frameworks and libraries used
 Django - 2.2.23
 
-django-crispy-forms - 1.1.0
+Django-crispy-forms - 1.1.0
 
-pillow - PIL 7.0.0
+Pillow - PIL 7.0.0
 ## How to configure
 Instructions for setting up project
 ## How to Run
