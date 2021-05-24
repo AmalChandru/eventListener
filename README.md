@@ -7,7 +7,8 @@ Features :
 - [x] Login and Logout System
 - [x] Facility for updating User profile and Picture 
 - [x] Create, Update, and Delete Events
-- [x] 
+- [x] Email and Password Reset
+- [x] Simple UI 
 ## Team members
 1. Name [Embed personal github URL]
 2. Name [Embed perosnal github URL]
