@@ -11,7 +11,7 @@ Features :
 - [x] Simple UI 
 ## Team members
 1. [Amal Chandran M V](https://github.com/AmalChandru)
-2. Aloysious Benoy [Embed perosnal github URL]
+2. [Aloysious Benoy](https://github.com/aloysiousBenoy)
 3. Sandra Prathap
 ## Team Id
 Team id here
