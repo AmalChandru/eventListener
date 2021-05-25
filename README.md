@@ -36,6 +36,7 @@ Django - 2.2.23
 Django-crispy-forms - 1.1.0
 
 Pillow - PIL 7.0.0
+
 [Requirements.txt](https://github.com/AmalChandru/eventListenerServer/blob/master/requirements.txt)
 
 ## How to configure
