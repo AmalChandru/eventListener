@@ -40,6 +40,9 @@ Pillow - PIL 7.0.0
 [Link to Requirements.txt](https://github.com/AmalChandru/eventListenerServer/blob/master/requirements.txt)
 
 ## How to configure
-Instructions for setting up project
+
+
+
+
 ## How to Run
 Instructions for running
