@@ -39,7 +39,7 @@ Pillow - PIL 7.0.0
 
 [Link to Requirements.txt](https://github.com/AmalChandru/eventListenerServer/blob/master/requirements.txt)
 
-## How to configure
+## How to configure and Run
 
 Steps:
 
@@ -51,5 +51,3 @@ Steps:
 Note: Use [eventListener_Deployed](https://github.com/AmalChandru/eventListener_Deployed) repo for development process since it has been tested and deployed. This repo consists of works including upcoming features
 
 
-## How to Run
-Instructions for running
