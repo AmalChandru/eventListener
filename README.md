@@ -20,8 +20,7 @@ Features :
 2. [Aloysious Benoy](https://github.com/aloysiousBenoy)
 3. [Sandra Prathap](https://github.com/SandhraPrathap)
 ## Team Id - BFH/recptACT41CJfFpYS/2021
-## Link to product walkthrough
-[link to video]
+
 ## How it Works ?
 
  1.Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
