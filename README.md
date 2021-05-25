@@ -43,7 +43,7 @@ Pillow - PIL 7.0.0
 
 Steps:
 
-1. Clone/pull/download the (eventListener_Deployed)[https://github.com/AmalChandru/eventListener_Deployed]
+1. Clone/pull/download the [eventListener_Deployed](https://github.com/AmalChandru/eventListener_Deployed)
 2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
 3. Configure your .env variables
 4. Run it using `python3 manage.py runserver`
