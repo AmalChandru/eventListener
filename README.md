@@ -22,13 +22,15 @@ Features :
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1.Create a new account via `Register`
+1. Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
 
-2.Login
+2.Create a new account via `Register`
 
-3.Add a new event
+3.Login
 
-4.Edit or Update the event post if required
+4.Add a new event
+
+5.Edit or Update the event post if required
 
 ## Frameworks and libraries used
 Django - 2.2.23
