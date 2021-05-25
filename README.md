@@ -12,7 +12,7 @@ Features :
 - [x] Login and Logout System
 - [x] Facility for updating User profile and Picture 
 - [x] Create, Update, and Delete Events
-- [x] Email and Password Reset
+- [] Email and Password Reset
 - [x] Simple UI 
 ## Team members
 1. [Amal Chandran M V](https://github.com/AmalChandru)
