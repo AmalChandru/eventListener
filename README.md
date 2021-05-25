@@ -47,6 +47,7 @@ Steps:
 3. Configure your .env variables
 4. Run it using `python3 manage.py runserver`
 
-Note: Use [eventListener_Deployed](https://github.com/AmalChandru/eventListener_Deployed) repo for development process since it has been tested and deployed. This repo consists of works including upcoming features
+Note: 
+Use [eventListener_Deployed](https://github.com/AmalChandru/eventListener_Deployed) repo for development process since it has been tested and deployed. This repo consists of works including upcoming features
 
 
