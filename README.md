@@ -35,13 +35,8 @@ Features :
  5.Edit or Update the event post if required
 
 ## Frameworks and libraries used
-Django - 2.2.23
 
-Django-crispy-forms - 1.1.0
-
-Pillow - PIL 7.0.0
-
-[Link to Requirements.txt](https://github.com/AmalChandru/eventListenerServer/blob/master/requirements.txt)
+[Get it here](https://github.com/AmalChandru/eventListener_Deployed/blob/master/requirements.txt)
 
 ## How to configure and Run
 
