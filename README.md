@@ -24,7 +24,7 @@ Features :
 [link to video]
 ## How it Works ?
 
- 1. Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
+ 1.Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
 
  2.Create a new account via `Register`
 
