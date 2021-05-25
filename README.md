@@ -12,8 +12,9 @@ Features :
 - [x] Login and Logout System
 - [x] Facility for updating User profile and Picture 
 - [x] Create, Update, and Delete Events
-- [ ] Email and Password Reset
-- [x] Simple UI 
+- [x] Simple UI
+- [ ] Email and Password Reset 
+- [ ] Responsiveness
 ## Team members
 1. [Amal Chandran M V](https://github.com/AmalChandru)
 2. [Aloysious Benoy](https://github.com/aloysiousBenoy)
@@ -22,6 +23,7 @@ Features :
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
+
 1. Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
 
 2.Create a new account via `Register`
