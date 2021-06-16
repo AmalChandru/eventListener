@@ -25,8 +25,7 @@ BFH/recptACT41CJfFpYS/2021
 
 ## Link to product walkthrough
 
-[EventListener📝](https://www.loom.com/share/7c2dd4b0ea62453f98b19264ded39de3?sharedAppSource=personal_library)
-
+EventListener📝
 ## How it Works ?
 
  1.Go to [EventListener📝](https://django-event-portal.herokuapp.com/)
