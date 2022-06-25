@@ -13,8 +13,6 @@ Features :
 - [x] Facility for updating User profile and Picture 
 - [x] Create, Update, and Delete Events
 - [x] Simple UI
-- [ ] Email and Password Reset 
-- [ ] Responsiveness
 ## Team members
 1. [Amal Chandran M V](https://github.com/AmalChandru)
 2. [Aloysious Benoy](https://github.com/aloysiousBenoy)
